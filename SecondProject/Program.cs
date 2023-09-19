@@ -27,7 +27,7 @@
             //| Baby Boomers | 1946 - 1964 | 59 - 77 vuotta |
             //+---------------------+-----------------------+---------------------+
 
-            //Tehtävä 5: Luo oma funktiot, jokaiselle tehtävälle
+            //Tehtävä 5: Luo oma funktio tehtävä 4:lle
         }
     }
 }
